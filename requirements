@@ -1,0 +1,16 @@
+---
+
+### requirements.txt (Dependencies)
+
+```txt
+pandas
+matplotlib
+scikit-learn
+praw
+bertopic
+umap-learn
+sentence-transformers
+transformers
+torch
+tqdm
+prophet
