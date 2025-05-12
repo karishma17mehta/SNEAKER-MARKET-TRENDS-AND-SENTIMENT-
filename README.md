@@ -30,10 +30,9 @@ An interactive Tableau dashboard is built using the combined dataset and include
 
 | File | Description |
 |------|-------------|
-| `Sneaker_PostHype_TrendForecasting.py` | Full Python workflow for data collection, NLP, sentiment, and forecasting |
-| `Final_Forecast_Date-Fixed_Dataset.csv` | Combined dataset used for Tableau visualization |
+| `Sneaker_PostHype_TrendForecasting_1.py` | Full Python workflow for data collection, NLP, sentiment, and forecasting |
+| `Final_Forecas_Dataset.csv` | Combined dataset used for Tableau visualization |
 | `reddit_filtered_sneaker_posts.csv` | Raw Reddit data collected |
-| `reddit_sentiment_results.csv` | Final sentiment breakdown per brand |
 | `sneaker_google_trend_1.csv` | Google Trends data used for forecasting |
 | `TABLEAU_DASHBOARD.twbx` | Packaged Tableau workbook (optional) |
 
