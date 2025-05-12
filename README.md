@@ -1,4 +1,4 @@
-# Sneaker PostHype Trend Forecasting
+# Sneaker Market Trend Forecasting
 
 This project explores how sneaker trends are evolving in the post-hype era, focusing on the online behavior of Gen Z consumers. Using Google Trends, Reddit scraping, sentiment analysis, and BERT topic modeling, we uncover engagement shifts across major sneaker brands. A Tableau dashboard ties all this together into an interactive visualization.
 
