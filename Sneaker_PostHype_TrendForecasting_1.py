@@ -75,11 +75,11 @@ import time
 
 # Set up Reddit connection
 reddit = praw.Reddit(
-    client_id='j2s7NZ4RAKIEsfsUK0fjsw',
-    client_secret='r6S8SrqjKkYsyiXG2fEpTs05GxsAxg',
-    user_agent='fashion_g_trends_app',
-    username='fashion_trends_17',
-    password='Mahi05Kari17@'  # replace this
+    client_id='ID',
+    client_secret='SECRET',
+    user_agent='APP',
+    username='USERNAME',
+    password='PASSWORD'  # replace this
 )
 
 # Target sneaker subreddits
